@@ -1,0 +1,14 @@
+{
+  "main.js": "static/js/main.4dee414b.js",
+  "main.js.map": "static/js/main.4dee414b.js.map",
+  "ssr.js": "static/js/ssr.2b8127c2.js",
+  "ssr.js.map": "static/js/ssr.2b8127c2.js.map",
+  "discord-invite/index.html": "discord-invite/index.html",
+  "favicon.png": "favicon.png",
+  "index.html": "index.html",
+  "prototype/@sourcecred/index.html": "prototype/@sourcecred/index.html",
+  "prototype/index.html": "prototype/index.html",
+  "test/FileUploader/index.html": "test/FileUploader/index.html",
+  "test/TimelineCredView/index.html": "test/TimelineCredView/index.html",
+  "timeline/@sourcecred/index.html": "timeline/@sourcecred/index.html"
+}
